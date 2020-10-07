@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center" style="color:Blue"> Hello World! </h1>
+<h1 align="center">Hi 👋 I'm Daniel Escobar</h1> 
+<h2 align="center">Programming student, from El Salvador</h2>
 
 <img align="right" width="450" height="390" src="./img/robot.gif">
 
@@ -19,9 +21,7 @@
 
 
 
-[![Dan920-Dev github stats](https://github-readme-stats.vercel.app/api?username=Dan920-Dev&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Dan920-Dev/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan920-Dev&layout=compact&theme=vue-dark)](https://github.com/Dan920-Dev/github-readme-stats)
+[![Dan920-Dev github stats](https://github-readme-stats.vercel.app/api?username=Dan920-Dev&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Dan920-Dev/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan920-Dev&layout=compact&theme=vue-dark)](https://github.com/Dan920-Dev/github-readme-stats)
 
 
 <img src="./img/t-rex.gif" alt="t rex" width="100%" >
