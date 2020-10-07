@@ -1,6 +1,6 @@
-<h1 align="center"> Hello World! </h1>
-<h1 align="center">Hi 👋 I'm Daniel Escobar</h1> 
-<h2 align="center">Programming student, from El Salvador</h2>
+<h1 align="center">Hello World! 👋</h1>
+<h1 align="center">I'm Daniel Escobar, "Tiger" to my friends 🐯</h1> 
+<h2 align="center">Programming student, from El Salvador 😎</h2>
 
 
 
@@ -21,7 +21,7 @@
 </a>
 <br/> <br/>
 
-- 🌱 I’m currently learning: web technologies and databases
+- 🌱 I’m currently learning: Web technologies and Databases
 - 📫 How to reach me: 00138218@uca.edu.sv | escobare361@gmail.com
 - ⚡ Fun fact: The eyes exercise more than the legs 👀 
 
