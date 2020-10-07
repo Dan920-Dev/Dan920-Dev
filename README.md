@@ -4,7 +4,7 @@
 
 
 
-<img align="right" width="400" height="525" src="./img/robot.gif">
+<img align="right" width="350" height="525" src="./img/robot.gif">
 
 <br/>
 <a href="https://twitter.com/JDaniel_ES">
