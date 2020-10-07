@@ -4,7 +4,7 @@
 
 
 
-<img align="right" width="450" height="400" src="./img/robot.gif">
+<img align="right" width="450" height="525" src="./img/robot.gif">
 
 <br/>
 <a href="https://twitter.com/JDaniel_ES">
@@ -25,7 +25,9 @@
 - 📫 How to reach me: 00138218@uca.edu.sv | escobare361@gmail.com
 - ⚡ Fun fact: The eyes exercise more than the legs 👀 
 
-[![Dan920-Dev github stats](https://github-readme-stats.vercel.app/api?username=Dan920-Dev&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Dan920-Dev/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan920-Dev&layout=compact&theme=vue-dark)](https://github.com/Dan920-Dev/github-readme-stats)
+[![Dan920-Dev github stats](https://github-readme-stats.vercel.app/api?username=Dan920-Dev&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Dan920-Dev/) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan920-Dev&layout=compact&theme=vue-dark)](https://github.com/Dan920-Dev/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
