@@ -1,8 +1,10 @@
-<h1 align="center" style="color:Blue"> Hello World! </h1>
+<h1 align="center"> Hello World! </h1>
 <h1 align="center">Hi 👋 I'm Daniel Escobar</h1> 
 <h2 align="center">Programming student, from El Salvador</h2>
 
-<img align="right" width="450" height="390" src="./img/robot.gif">
+
+
+<img align="right" width="475" height="530" src="./img/robot.gif">
 
 <br/>
 <a href="https://twitter.com/JDaniel_ES">
@@ -19,13 +21,11 @@
 </a>
 <br/> <br/>
 
-
+- 🌱 I’m currently learning: web technologies and databases
+- 📫 How to reach me: 00138218@uca.edu.sv | escobare361@gmail.com
+- ⚡ Fun fact: The eyes exercise more than the legs 👀 
 
 [![Dan920-Dev github stats](https://github-readme-stats.vercel.app/api?username=Dan920-Dev&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Dan920-Dev/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan920-Dev&layout=compact&theme=vue-dark)](https://github.com/Dan920-Dev/github-readme-stats)
-
-
-<img src="./img/t-rex.gif" alt="t rex" width="100%" >
-
 
 <!--
 Here are some ideas to get you started:
