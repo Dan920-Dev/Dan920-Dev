@@ -21,7 +21,7 @@
 </a>
 <br/> <br/>
 
-- 🌱 I’m currently learning: Web technologies and Databases
+- 🌱 I’m currently learning: Web, Mobile and Database technologies
 - 📫 How to reach me: 00138218@uca.edu.sv | escobare361@gmail.com
 - ⚡ Fun fact: The eyes exercise more than the legs 👀 
 
