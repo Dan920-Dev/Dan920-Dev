@@ -28,3 +28,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan920-Dev&layout=compact&theme=vue-dark)](https://github.com/Dan920-Dev/github-readme-stats)
 
 <h2 align="center">Technologies that I use</h2>
+<img align="center" width="100" height="100" src="./img/c#.png">
+<img align="center" width="100" height="100" src="./img/c++.png">
