@@ -28,6 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan920-Dev&layout=compact&theme=vue-dark)](https://github.com/Dan920-Dev/github-readme-stats)
 
 <h2 align="center">Technologies that I use</h2>
-<img  width="50" height="50" src="./img/c++.png"> <img width="50" height="50" src="./img/opncv.png"> <img width="50" height="50" src="./img/boost.png">
+<div align="center"><img width="50" height="50" src="./img/c++.png"> </div>
+ <img width="50" height="50" src="./img/opncv.png"> <img width="50" height="50" src="./img/boost.png">
 <img width="50" height="50" src="./img/postgres.png">
 
