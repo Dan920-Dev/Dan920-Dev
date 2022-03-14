@@ -6,15 +6,7 @@
 
 <img align="left" width="320" height="550" src="./img/bart.gif">
 
-<br/>
-<a href="https://twitter.com/JDaniel_ES">
-  <img align="left" alt="Dan920-Dev Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
-<a href="https://www.linkedin.com/in/daniel-escobar-6aab861b1/">
-  <img align="left" alt="Dan920-Dev LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
 
-<br/> <br/>
 
 - 🌱 I’m currently learning: Web, Mobile and Database technologies
 - 📫 How to reach me: 00138218@uca.edu.sv | escobare361@gmail.com
