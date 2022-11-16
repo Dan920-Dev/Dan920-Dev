@@ -7,11 +7,15 @@
 
 <img align="left" width="320" height="550" src="./img/bart.gif">
 
-- 🌱 I’m currently learning: Web, Mobile and Database technologies
-- 📫 How to reach me: 00138218@uca.edu.sv | escobare361@gmail.com
+
+<br>
+<br>
+<br>
+<p align="center">
+- 🌱 I’m currently learning: Web, Mobile and Database technologies<br>
+- 📫 How to reach me: 00138218@uca.edu.sv | escobare361@gmail.com<br>
 - ⚡ Fun fact: The eyes exercise more than the legs 👀 
-
-
+</p>
 <h2 align="center">Technologies that I use</h2>
 <p align="center">
   <a href="https://skillicons.dev">
