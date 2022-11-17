@@ -5,7 +5,7 @@
 
 
 
-<img align="left" width="320" height="550" src="./img/bart.gif">
+<img align="left" width="320" height="670" src="./img/bart.gif">
 
 
 <br>
@@ -36,4 +36,12 @@
 
 </div>
 
+<h2 align="center">I want to learn</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,kotlin,arduino,swift&theme=light" />
+  </a>
+</p>
+
+</div>
 
