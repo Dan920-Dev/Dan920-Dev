@@ -5,9 +5,6 @@
 
 
 
-<img align="left" width="320" height="670" src="./img/bart.gif">
-
-
 <br>
 <br>
 <br>
