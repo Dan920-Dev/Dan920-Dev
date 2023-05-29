@@ -11,32 +11,33 @@
 
 <div>
   
-- 🌱 I’m currently learning: Web, Mobile and Database technologies
+- 🌱 I’m currently learning: Web and Database technologies
 - 📫 How to reach me: 00138218@uca.edu.sv | escobare361@gmail.com
-- ⚡ Fun fact: The eyes exercise more than the legs 👀 
+
   
 <p align="center">
 <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
   </p>
-<h2 align="center">Technologies that I use</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,js,java,sass&theme=light" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=xd,vscode,visualstudio,figma,github,postgres,idea&theme=light" />
-  </a>
-</p>
+<h2 align="center">Languages and tools that I use</h2>
 
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=xd,vscode,visualstudio,figma,github,git,idea,postgres,linux,aws,net&theme=light" />
+  </a>
+</p>
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,js,java,bootstrap,sass,latex,kotlin,md,spring&theme=light" />
+  </a>
+</p>
 
 </div>
 
 <h2 align="center">I want to learn</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,kotlin,arduino,swift&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,docker,arduino,mongo&theme=light" />
   </a>
 </p>
 
