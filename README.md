@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=Dan920-Dev&color=blue)
+
+
 <h1 align="center">Hi 👋, I'm Daniel Rivera "Tiger" to my friends 🐯</h1>
 <h3 align="center">A passionate backend developer from El Salvador</h3>
 
