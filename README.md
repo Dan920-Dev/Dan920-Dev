@@ -37,4 +37,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/txgerjd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="txgerjd" /></a></p><br><br>
 
+<h3 align="left">My contributioons</h3>
+
+![Snake animation](https://github.com/Dan920-Dev/Dan920-Dev/blob/output/github-contribution-grid-snake.svg)
+
 
